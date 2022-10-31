@@ -1,11 +1,11 @@
-<img width="1100em" src="https://media.tenor.com/w2Dao-zQcRgAAAAC/gabigol-sil%C3%AAncio.gif"/>
+<img width="1100em" src="https://media.tenor.com/S5gJsF7DFdIAAAAd/bem-vindo.gif"/>
 <h1>Olá! Eu sou o Bernardo Rezende!</h1>
 
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/bedibe)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-rezende-1a9335232/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beadelino@gmail.com)
-[![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]
+[![VsCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()
 
   <a href="https://github.com/bedibe">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedibe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
