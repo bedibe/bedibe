@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=330ECA&center=&vCenter=&width=435&lines=Ol%C3%A1!+Eu+sou+o+Bernardo!;Seja+bem+vindo!)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=330ECA&center=&vCenter=&width=435&lines=Ol%C3%A1!+Eu+sou+o+Bernardo+Rezende!++;Seja+bem+vindo!)](https://git.io/typing-svg)
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=330ECA&center=&vCenter=&width=435&lines=Minhas+redes+sociais...)](https://git.io/typing-svg)
