@@ -22,6 +22,7 @@
   <code><img title="Javascript" height="25" src="https://img.icons8.com/?size=512&id=108784&format=png"></code>
   <code><img title="HTML5" height="25" src="https://img.icons8.com/?size=512&id=20909&format=png"></code>
   <code><img title="CSS" height="25" src="https://img.icons8.com/?size=512&id=21278&format=png"></code>
+ <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
   <code><img title="React" height="25" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png"></code>
   <code><img title="MySQL" height="25" src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"></code>
