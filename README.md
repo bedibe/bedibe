@@ -14,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedibe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedibe&layout=compact&langs_count=8&theme=dracula"/>
   
-<h3 aling="center"> Tecnologias que eu uso no meu dia </h3>
+<h2 align="center"> Frameworks e Linguagens </h2>
 <div style="display: inline_block">
   <p align="center">
   <code><img title="C#" height="25" src="https://img.icons8.com/?size=512&id=mhwmyz1eu7T5&format=png"></code>
