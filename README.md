@@ -14,13 +14,22 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bedibe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bedibe&layout=compact&langs_count=8&theme=dracula"/>
   
-<h3> Tecnologias que eu uso no meu dia </h3>
+<h3 aling="center"> Tecnologias que eu uso no meu dia </h3>
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <p align="center">
+  <code><img title="C#" height="25" src="https://img.icons8.com/?size=512&id=mhwmyz1eu7T5&format=png"></code>
+  <code><img title="Python" height="25" src="https://img.icons8.com/?size=512&id=13441&format=png"></code>
+  <code><img title="Javascript" height="25" src="https://img.icons8.com/?size=512&id=108784&format=png"></code>
+  <code><img title="HTML5" height="25" src="https://img.icons8.com/?size=512&id=20909&format=png"></code>
+  <code><img title="CSS" height="25" src="https://img.icons8.com/?size=512&id=21278&format=png"></code>
+  <code><img title="React" height="25" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png"></code>
+  <code><img title="MySQL" height="25" src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"></code>
+  <code><img title="JQuery" height="25" src="https://img.icons8.com/?size=512&id=55215&format=png"></code>
+  <code><img title="Java" height="25" src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png"></code>
+  <code><img title="JSON" height="25" src="https://img.icons8.com/?size=512&id=114474&format=png"></code>
+  <code><img title="GitHub" height="25" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"></code>
+  <code><img title="npm" height="25" src="https://img.icons8.com/?size=512&id=24895&format=png"></code>
+  <code><img title="PHP" height="25" src="https://img.icons8.com/?size=512&id=pKaVdzbCJGgA&format=png"></code>
+</p>
 </div><br/>
