@@ -26,7 +26,6 @@
   <code><img title="MySQL" height="25" src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/?size=512&id=0OQR1FYCuA9f&format=png"></code>
   <code><img title="JQuery" height="25" src="https://img.icons8.com/?size=512&id=55215&format=png"></code>
-  <code><img title="Java" height="25" src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png"></code>
   <code><img title="JSON" height="25" src="https://img.icons8.com/?size=512&id=114474&format=png"></code>
   <code><img title="GitHub" height="25" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png"></code>
   <code><img title="npm" height="25" src="https://img.icons8.com/?size=512&id=24895&format=png"></code>
